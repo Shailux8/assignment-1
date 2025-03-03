@@ -1,10 +1,10 @@
 # assignment-1
 
-Question 1. Basic HTML Document An element called HTML surrounds the whole document. This
-element contains two sub-elements, HEAD and BODY. These elements are required to
-form any HTML document.
-'''
-<html>
+Question 1. Basic HTML Document An element called HTML surrounds the whole document. 
+This element contains two sub-elements, HEAD and BODY.
+These elements are required to form any HTML document.
+
+-no <html>
 <Head>
 <Title>The First Page</title>
 </head>
@@ -12,7 +12,7 @@ form any HTML document.
 Hello World
 </body>
 </html>
-'''
+
 Just write down above code in the notepad editor and save this file with the extension of
 .html or .htm and then double click on that file you will get output on the default web
 browser.
